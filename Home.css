@@ -1,0 +1,28 @@
+#home:hover{
+    background-color: rgb(114, 137, 158);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
+}
+#news:hover{
+    background-color: rgb(114, 137, 158);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
+}
+#performance:hover{
+    background-color: rgb(114, 137, 158);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
+}
+#tickets:hover{
+    background-color: rgb(114, 137, 158);
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
+}
